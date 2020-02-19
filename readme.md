@@ -10,7 +10,7 @@
 
 ## Configuration
 
-# Copy env file
+### Copy env file
 
 - cp .env.example .env
 
