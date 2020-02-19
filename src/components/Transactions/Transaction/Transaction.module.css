@@ -1,0 +1,6 @@
+.CardHeader:hover {
+  cursor: pointer;
+}
+.CardHeader {
+  cursor: default;
+}

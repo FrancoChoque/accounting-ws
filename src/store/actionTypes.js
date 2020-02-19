@@ -1,0 +1,7 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const SET_TRANSACTIONS = 'SET_TRANSACTIONS';
+export const SET_TRANSACTION = 'SET_TRANSACTION';
+
+export const UI_START_LOADING = 'UI_START_LOADING';
+export const UI_STOP_LOADING = 'UI_STOP_LOADING';
