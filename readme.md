@@ -14,7 +14,7 @@
 
     cp .env.example .env
 
-Use
+## Use
 
     Dev:
     	npm run dev
