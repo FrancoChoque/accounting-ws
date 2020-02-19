@@ -12,7 +12,7 @@
 
 ### Copy env file
 
-- cp .env.example .env
+    cp .env.example .env
 
 Use
 
