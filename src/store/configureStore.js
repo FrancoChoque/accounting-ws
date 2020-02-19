@@ -27,7 +27,7 @@ const initializeStore = (initialState, { req, debug, storeKey }) => {
   }
   const persistConfig = {
     key: 'nextjs',
-    whitelist: ['auth'],
+    whitelist: ['auth', 'transactions'],
     storage: sessionStorage,
   };
 
