@@ -1,6 +1,6 @@
 # Accounting Web Service
 
-## Requisitos
+## Requirements
 
 [npm](https://www.npmjs.com/get-npm)
 
@@ -10,8 +10,9 @@
 
 ## Configuration
 
-Copy env file
-cp .env.example .env
+# Copy env file
+
+- cp .env.example .env
 
 Use
 
