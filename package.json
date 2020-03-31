@@ -19,7 +19,7 @@
     "express-session": "^1.17.0",
     "formik": "^2.1.4",
     "moment": "^2.24.0",
-    "next": "9.2.2",
+    "next": "9.3.2",
     "next-redux-wrapper": "^4.0.1",
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
